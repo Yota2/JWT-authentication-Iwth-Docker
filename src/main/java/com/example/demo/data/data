@@ -1,0 +1,7 @@
+{
+	"email": "yohana@gmail.com",
+	"password": "test123",
+	"fullName": "Yohana Astatke"
+}
+url
+http://localhost:8005/auth/signup
